@@ -59,7 +59,7 @@ function websitechat_widgetcontrol()
   $m = array();
   if (preg_match('/src="(.*)"/iU',$button,$m))
   {
-    $preview = '<img src="'.$m[1].'?t?='.time().'" alt="Live Chat Button" />';
+    $preview = '<img src="'.$m[1].'?t='.time().'" alt="Live Chat Button" />';
   }
   
   if ($align == 'left')
