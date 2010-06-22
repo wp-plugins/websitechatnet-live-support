@@ -2,14 +2,14 @@
 /**
  * @package WebsiteChat.net Live Support
  * @author WebsiteChat.net
- * @version 1.0.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: WebsiteChat.net Live Support
 Plugin URI: http://websitechat.net/en/3rd-party/wordpress
 Description: This plugin allows to quickly install the live support chat button on any WordPress website.
 Author: WebsiteChat.net
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://websitechat.net
 License: GPL2
 */

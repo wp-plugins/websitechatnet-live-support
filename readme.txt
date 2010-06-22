@@ -2,7 +2,7 @@
 Tags: live support, live chat, widget, live help, helpdesk, support chat, chat software
 Requires at least: 1.5
 Tested up to: 2.9.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL2
 
 Provide Live Support to your Customers with Live Chat widget by WebsiteChat.net
