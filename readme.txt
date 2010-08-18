@@ -1,8 +1,8 @@
 === WebsiteChat.net Live Support ===
 Tags: live support, live chat, widget, live help, helpdesk, support chat, chat software
 Requires at least: 1.5
-Tested up to: 2.9.2
-Stable tag: 1.0.1
+Tested up to: 3.0.1
+Stable tag: 1.0.2
 License: GPL2
 
 Provide Live Support to your Customers with Live Chat widget by WebsiteChat.net
@@ -30,7 +30,9 @@ Why WebsiteChat.net?
 == Contributors/Changelog ==
 
   Version Date       Changes
-
+  
+  1.0.2   2010/08/18 Tested with WP 3.0.1
+  1.0.1   2010/06/22 Preview URL fix
   1.0.0   2010/04/12 Initial Release
 
 == Notes ==
